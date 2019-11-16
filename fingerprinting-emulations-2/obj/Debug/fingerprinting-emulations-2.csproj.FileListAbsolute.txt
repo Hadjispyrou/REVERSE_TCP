@@ -1,0 +1,5 @@
+C:\Users\Kotsios\source\repos\fingerprinting-emulations-2\fingerprinting-emulations-2\bin\Debug\fingerprinting-emulations-2.exe.config
+C:\Users\Kotsios\source\repos\fingerprinting-emulations-2\fingerprinting-emulations-2\bin\Debug\fingerprinting-emulations-2.exe
+C:\Users\Kotsios\source\repos\fingerprinting-emulations-2\fingerprinting-emulations-2\bin\Debug\fingerprinting-emulations-2.pdb
+C:\Users\Kotsios\source\repos\fingerprinting-emulations-2\fingerprinting-emulations-2\obj\Debug\fingerprinting-emulations-2.exe
+C:\Users\Kotsios\source\repos\fingerprinting-emulations-2\fingerprinting-emulations-2\obj\Debug\fingerprinting-emulations-2.pdb
